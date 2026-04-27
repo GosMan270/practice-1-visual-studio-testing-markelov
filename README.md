@@ -83,4 +83,6 @@ VisualStudioTesting_Markelov/
 
 ## Сопроводительная записка
 
-Находится в папке `docs/report.md` с иллюстрациями в `docs/images/`.
+Готовая сопроводительная записка в формате PDF находится в файле `docs/report.pdf`.
+
+Исходный markdown-файл записки находится в `docs/report.md`, а иллюстрации — в `docs/images/`.
